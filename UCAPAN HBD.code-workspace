@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../UCAPAN HBD"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UCAPAN HBD"
+	}
+}
